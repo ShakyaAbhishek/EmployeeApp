@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>148721337703-e9csmvheau1rm6c4jgi2olnov9o2vkl5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.148721337703-e9csmvheau1rm6c4jgi2olnov9o2vkl5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwPD3bNQuE_E6w0q9bR5etFUMPVDNz798</string>
+	<key>GCM_SENDER_ID</key>
+	<string>148721337703</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wellcurve</string>
+	<key>PROJECT_ID</key>
+	<string>soken-273c1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>soken-273c1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:148721337703:ios:6bb370a68e348c41</string>
+	<key>DATABASE_URL</key>
+	<string>https://soken-273c1.firebaseio.com</string>
+</dict>
+</plist>
